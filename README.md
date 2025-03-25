@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @p-r-a-b-h-a-t-joshi
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Neural Networks
-- 📫 You can contact me through mail
+- 🌱 I’m currently learning about Large Language Models (LLMs)
 - 😄 Pronouns: he/him
 
 <!---
